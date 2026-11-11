@@ -5,7 +5,7 @@ Production-ready intelligent automation configurations, agentic workflow archite
 ## 💼 Our Services & Packages
 * **Fully Managed AI Services**: End-to-end platform delivery, workflow development, and ongoing optimization without the need to hire internal AI teams.
 * **[Intelligent Process Automation (IPA)](https://utofa.com/blogs/intelligent-process-automation/)**: Custom AI-powered automation solutions tailored for Finance, Procurement, Legal, HR, and IT Support operations.
-* **[Sovereign Deployment Model]**: Secure on-premise or VPC deployments featuring SLM-first architecture and OpsConsole™ for total data governance and explainability.
+* **Sovereign Deployment Model**: Secure on-premise or VPC deployments featuring SLM-first architecture and OpsConsole™ for total data governance and explainability.
 ## 🛠️ Repository Content & Blueprints
 * Production-ready Java microservice integration examples
 * Agentic workflow orchestration scripts and event-driven templates
